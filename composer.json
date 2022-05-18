@@ -1,0 +1,15 @@
+{
+    "name": "user/task-103",
+    "autoload": {
+        "psr-4": {
+            "lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shatrov Alexksej",
+            "email": "mail@ashatrov.ru"
+        }
+    ],
+    "require": {}
+}
